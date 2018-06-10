@@ -1,0 +1,7 @@
+[package]
+name = "hang"
+version = "0.1.0"
+authors = ["rust-nightly"]
+
+[dependencies]
+alsa = "0.2.*"
